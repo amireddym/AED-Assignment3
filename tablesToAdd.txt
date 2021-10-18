@@ -1,0 +1,12 @@
+Employer  ---- co-op/other
+Employer-Offering(Jobs)
+Student-Employment-History
+
+
+//Feedback to Courses
+
+Student-Course-Feedback
+Student-Prof-Feedback
+Student-Employement-Course-Map
+
+
