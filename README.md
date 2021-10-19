@@ -15,3 +15,16 @@ Deliverables :
 1. Report outlining your proposed solution
 2. Sequence diagram showing how to navigate the university object model to deliver performance metrics needed for performance and feedback.
 3. Class diagram showing the changes to the university model to support the new capabilities. This diagram must include the additional methods and attributes to deliver the results.
+
+Sequence Diagrams:
+1. Feedback of course sequence diagram.
+2. Feedback of professor sequence diagram.
+3. Course ratings by employment.
+4. 
+
+
+Final Thoughts:
+1. Placement percentage + Avg income + Average (rating of company*no of students placed in it) ---- Education quality assesment.
+2. Tracking jobs and promotions of graduates can be done by fetching data from linkedin and also from the alumni association.
+3. Graduates growth based on the pay increment and company ranking increment and then mapping them to the courses.
+4. Ranking system is by the Educational Quality assesment + alumni feedback + reasearch work 
