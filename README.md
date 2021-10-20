@@ -28,3 +28,8 @@ Final Thoughts:
 2. Tracking jobs and promotions of graduates can be done by fetching data from linkedin and also from the alumni association.
 3. Graduates growth based on the pay increment and company ranking increment and then mapping them to the courses.
 4. Ranking system is by the Educational Quality assesment + alumni feedback + reasearch work 
+
+Useful Resources:
+
+Sequence Diagram Intro
+1. https://www.youtube.com/watch?v=pCK6prSq8aw
