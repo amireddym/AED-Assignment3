@@ -22,6 +22,10 @@ Sequence Diagrams:
 3. Course ratings by employment.
 4. 
 
+Dashboards :
+1. Popular courses by Semester
+2. Popular professor by rating and by Student enrollment
+
 
 Final Thoughts:
 1. Placement percentage + Avg income + Average (rating of company*no of students placed in it) ---- Education quality assesment.
